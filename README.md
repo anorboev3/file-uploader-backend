@@ -4,5 +4,5 @@
 1.Change connection-string inside appsettings.json. <br />
 2.Run update-migration command in Persistence project, to create database.
 
-##Also you will need UI project 
+## Also you will need UI project 
 Download it from here [link](https://github.com/anorboev3/file-uploader-frontend)
